@@ -10,7 +10,7 @@ tutorial. After doing some digging, I found a different repo, and a different in
 ## Summary of Attacks
 After only deploying the honeypot for roughly 30 minutes, I have already recieved over 100 attacks from all over the world. The most commonly attacked port is port 8088. At this time there have been no maleware samples.
 
-![Attack Summary](https://imgur.com/a/J6LVdxT)
+*See attack report.png within this repo to see some examples of the attacks I have recieved*
 
 ## Questions
 I am very surprised at how many attacks I have recieved in such a short time. I am curious as to how these attacks are being performed and how these attackers have found me so quickly. 
